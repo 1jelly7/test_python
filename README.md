@@ -1,3 +1,11 @@
+# 개발 환경
+
+## 소프트웨어 버전
+
+| 항목 | 버전 |
+| :---: | :---: |
+| CUDA | 13.2 |
+
 1. 아래 파일을 연다.
 .../Lib/site-packages/pandas_datareader/compat/__init__.py
 2. 첫 줄 근처의 import를 아래처럼 바꾼다.
