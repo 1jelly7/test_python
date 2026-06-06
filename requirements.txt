@@ -5,6 +5,7 @@ torchvision
 ipykernel
 matplotlib
 numpy
+openpyxl
 pandas
 pandas-datareader
 scikit-learn
